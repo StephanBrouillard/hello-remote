@@ -1,1 +1,3 @@
 In the <> Edit file window, enter some text into demo.txt. Here's an example:
+
+Edit demo.txt, save the changes and then commit the changes locally using the following commands.
